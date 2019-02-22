@@ -1,7 +1,0 @@
-a2
-input.txt
-Makefile
-my_shell.c
-output.txt
-README
-standon1_2
